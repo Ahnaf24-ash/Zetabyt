@@ -1,0 +1,21 @@
+{
+  "name": "ZETABYT-full-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "corepack": "^0.34.6",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "npm": "^11.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
+
